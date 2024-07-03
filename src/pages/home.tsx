@@ -1,4 +1,3 @@
-import React from 'react'
 import snap from "../assets/img.png"
 
 export default function Login() {
